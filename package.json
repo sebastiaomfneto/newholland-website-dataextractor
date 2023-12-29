@@ -1,0 +1,19 @@
+{
+  "name": "newholland-website-dataextractor",
+  "description": "New Holland Website Data Extractor",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Sebastião Neto <sebastiaomfneto@gmail.com>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^7.0.4"
+  }
+}
